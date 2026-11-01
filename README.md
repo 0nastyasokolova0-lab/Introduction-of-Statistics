@@ -1,1 +1,1 @@
-# Introduction-of-Statistics
+# Introduction-of-Statistics/python
